@@ -1,0 +1,114 @@
+<html>
+<head>
+    <title>Alianza Lima</title>
+
+    <style>
+
+        header {
+            background-color: #020738;
+            color: white;
+            padding: 10px;
+            position: fixed: relative;
+            top: 0;
+            width: 100%;
+            height: 60px;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        body {
+            background-color: #0b1d3a;
+            color: white;
+            font-family: Arial;
+         
+            margin: 0px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #ffffff;
+        }
+
+        .seccion {
+            margin: 20px;
+        }
+
+        .lado {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+        }
+
+        img {
+            width: 250px;
+        
+        }
+
+        p {
+            font-size: 16px;
+        }
+
+        footer 
+        {
+            background-color: darkblue;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed: relative;
+            bottom: 0;
+            width: 100%;
+        }
+
+
+    </style>
+</head>
+
+<body>
+<header> <h1>ALIANZA LIMA</h1></header>
+
+
+<div class="seccion">
+    <p> Alianza Lima no es solo un club de futbol, es una institucion historica que forma parte de la identidad del Peru. 
+    Fundado en 1901, es uno de los equipos mas antiguos y representativos del pais, con una historia llena de esfuerzo, 
+    pasion y orgullo que ha marcado generaciones enteras de hinchas.</p>
+</div>
+
+<div class="seccion lado">
+    <img src="html/descarga1.png">
+
+    <p>El escudo de Alianza Lima representa mucho mas que un simple simbolo. Sus colores azul y blanco reflejan la 
+    elegancia y la tradicion del club. A lo largo del tiempo, este emblema ha acompañado al equipo en sus mayores 
+    logros y tambien en los momentos mas dificiles, demostrando siempre la grandeza de su historia.</p>
+</div>
+
+<div class="seccion">
+    <p>A lo largo de los años, Alianza Lima ha sido protagonista del futbol peruano, conquistando numerosos titulos 
+    y formando jugadores que dejaron huella. Su estilo de juego, su garra y su compromiso dentro de la cancha 
+    lo convierten en un equipo respetado tanto a nivel nacional como internacional.</p>
+</div>
+
+<div class="seccion lado">
+    <img src="html/descarga2.jfif">
+
+    <p>El equipo representa el esfuerzo colectivo, donde cada jugador aporta su talento para defender los colores 
+    del club. La hinchada acompaña siempre, creando un ambiente unico que impulsa al equipo en cada partido.</p>
+</div>
+
+<div class="seccion">
+    <p>El estadio es el lugar donde toda esta historia cobra vida. Cada partido es una muestra de la pasion de sus 
+    seguidores, que llenan las tribunas con cantos y energia. Alianza Lima no es solo futbol, es sentimiento, 
+    es historia y es una de las instituciones mas grandes del Peru.</p>
+</div>
+
+<div class="seccion lado">
+    <img src="html/descarga3.jpeg">
+    <p>En este estadio se han vivido momentos inolvidables que quedaron marcados en la memoria de los hinchas. 
+    Es el escenario donde se celebra la gloria y donde se fortalece el amor por el club.</p>
+</div>
+    <footer>
+    <p>&copy; pagina principal de alianza lima.</p>
+    <a href="https://clubalianzalima.com.pe/">Aqui</a>
+</footer>
+
+</body>
+</html>
